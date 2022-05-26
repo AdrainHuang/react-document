@@ -2,10 +2,10 @@ feature toggle 介绍
 https://www.flagship.io/feature-flags-react-app/
 
 feature toggle 框架
-https://www.npmjs.com/package/react-feature-flags --> 这种不好用,tech debt处理麻烦
-https://www.npmjs.com/package/feature-toggle-api --> 看着就头疼
-https://www.npmjs.com/package/react-unleash-flags --> 这种要有对应的服务器作为中心，难用
-https://www.npmjs.com/package/react-feature-toggles --> 比较容易用，tech debt也相对好处理
+- https://www.npmjs.com/package/react-feature-flags --> 这种不好用,tech debt处理麻烦
+- https://www.npmjs.com/package/feature-toggle-api --> 看着就头疼
+- https://www.npmjs.com/package/react-unleash-flags --> 这种要有对应的服务器作为中心，难用
+- https://www.npmjs.com/package/react-feature-toggles --> 比较容易用，tech debt也相对好处理
 
 自己思考：
 组件怎么做toggle，css是否需要做toggle,例如SearchButton里面我需要改样式，如何处理。要考虑怎么降低tech debt和能友好的处理tech debt.
