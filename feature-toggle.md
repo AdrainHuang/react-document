@@ -1,5 +1,6 @@
 feature toggle 介绍
-https://www.flagship.io/feature-flags-react-app/
+- https://martinfowler.com/articles/feature-toggles.html
+- https://www.flagship.io/feature-flags-react-app/
 
 feature toggle 框架
 - https://www.npmjs.com/package/react-feature-flags --> 这种不好用,tech debt处理麻烦
